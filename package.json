@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bfilia/jsrogue#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "rot-js": "^0.6.2"
   }
 }
